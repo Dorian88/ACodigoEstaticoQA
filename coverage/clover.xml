@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1777761551210" clover="3.2.0">
-  <project timestamp="1777761551210" name="All files">
+<coverage generated="1778004222728" clover="3.2.0">
+  <project timestamp="1778004222729" name="All files">
     <metrics statements="19" coveredstatements="11" conditionals="14" coveredconditionals="6" methods="1" coveredmethods="1" elements="34" coveredelements="18" complexity="0" loc="19" ncloc="19" packages="1" files="1" classes="1"/>
     <file name="payment.js" path="C:\Users\USUARIO\Documents\Antigravity\Sonarcloud\src\payment.js">
       <metrics statements="19" coveredstatements="11" conditionals="14" coveredconditionals="6" methods="1" coveredmethods="1"/>
